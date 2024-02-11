@@ -1,0 +1,14 @@
+/* SHIMMER UI */
+
+.shimmer{
+  min-height: 100vh;
+}
+
+.shimmer_body_container{
+  height: 100vh;
+}
+
+.shimmer_nuke{
+  background-color: FFBE0B;
+  padding: 10px;
+}
